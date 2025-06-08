@@ -1,6 +1,6 @@
 # Introduction to Information Security and Privacy Final Project  
 ## Real-time-Deepfake
-![merge](https://github.com/rex0988476/Real-time-Deepfake/blob/main/README/merge.png)  
+![merge](https://github.com/rex0988476/IISP_final/blob/main/README/merge.png)  
 真實人臉型虛擬直播主
 
 ## Usage
